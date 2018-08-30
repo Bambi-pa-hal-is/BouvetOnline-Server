@@ -1,0 +1,9 @@
+{
+  "name": "bouvet-online-web-socket",
+  "version": "0.0.0",
+  "description": "BouvetOnlineWebSocket",
+  "main": "server.js",
+  "author": {
+    "name": "Fritte"
+  }
+}
